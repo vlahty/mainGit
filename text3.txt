@@ -1,2 +1,3 @@
 user1 create a new file
 user1 add new feature
+user2 сделал поправки в файле
