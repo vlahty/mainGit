@@ -1,1 +1,1 @@
-user1 updated this file
+user2 fixed a critical bag in file1
