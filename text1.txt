@@ -1,3 +1,1 @@
-user1 developed a new feature in file1
-user2 fixed a critical bag in file1
-
+git rebase main (master)
